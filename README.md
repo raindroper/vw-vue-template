@@ -26,17 +26,6 @@ scss
 
 	<div class="box ignore"></div>
 
-## cdn ##
-
-> vue,vuex,vue-router均使用cdn引入
-
-## 版本 ##
-|	名称  	|	版本		|
-|-----------|-----------|
-| vue 		| 2.5.17 	|
-|vue-router	| 3.0.1 	|
-|vuex		| 3.0.1		|
-
 ## Project setup
 ```
 npm install
