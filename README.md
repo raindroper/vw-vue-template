@@ -2,6 +2,11 @@
 
 > 2018/10/9 15:44:32 
 
+- [npm版本](https://github.com/raindroper/vw-vue-template/tree/npm "npm")
+- [cdn版本](https://github.com/raindroper/vw-vue-template/tree/cdn "cdn")
+
+> ## 此为cdn版本 ##
+
 ## style预编译语言 ##
 
 scss
