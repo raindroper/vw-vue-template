@@ -16,3 +16,10 @@ export default {
   }
 }
 </script>
+
+<style scoped lang="scss">
+  img {
+      width: 75px;
+  }
+
+</style>
