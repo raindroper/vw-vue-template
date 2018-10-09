@@ -1,6 +1,7 @@
 <template>
   <div class="home">
       <p>welcome to vw-vue-template</p>
+      <p>{{$store.state.testState}}</p>
   </div>
 </template>
 

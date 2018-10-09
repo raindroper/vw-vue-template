@@ -1,5 +1,7 @@
 # vw-vue-template
 
+> 2018/10/9 15:44:32 
+
 ## style预编译语言 ##
 
 scss
@@ -23,6 +25,16 @@ scss
 ## 不想把px转为vw时 ##
 
 	<div class="box ignore"></div>
+
+## cdn ##
+
+> vue,vuex,vue-router均使用cdn引入
+
+## 版本 ##
+|-----------|-----------|
+| vue 		| 2.5.17 	|
+|vue-router	| 3.0.1 	|
+|vuex		| 3.0.1		|
 
 ## Project setup
 ```

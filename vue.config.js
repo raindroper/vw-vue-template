@@ -66,6 +66,13 @@ module.exports = {
   },
 
   configureWebpack: () => {
+    return {
+      externals: {
+        vue: 'Vue',
+        'vue-router': 'VueRouter',
+        vuex: 'Vuex',
+      },
+    }
   },
 
   // CSS 相关选项
