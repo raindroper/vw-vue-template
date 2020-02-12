@@ -21,7 +21,7 @@ module.exports = {
   // 那么将这个值改为 '/my-app/'
 
   /** 区分打包环境与开发环境*/
-  baseUrl: process.env.NODE_ENV === 'production' ? "/" : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? "/" : '/',
 
 
   // 构建好的文件输出到哪里
